@@ -84,39 +84,39 @@ To become a strong software engineer capable of building **scalable, intuitive a
 
 ### Languages
 
-<p>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
+</div>
 
 ### Web Development
 
-<p>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express" />
-</p>
+</div>
 
 ### Database & Data
 
-<p>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,python" />
-</p>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+</div>
 
 ### Cloud & Deployment
 
-<p>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=aws,vercel,git,github" />
-</p>
+</div>
 
 ### Design & Creative Tools
 
-<p>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=figma,canva,photoshop" />
-</p>
+
 
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
+</div>
 
 ---
 
