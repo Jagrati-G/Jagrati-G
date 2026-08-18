@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hey, I'm Jagrati Gautam 👋
+<div align="center">
 
-### Software Engineer • Web Developer • UI/UX Enthusiast • Data Analyst
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=230&section=header&text=Hey%2C%20I'm%20Jagrati%20Gautam%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20•%20Web%20Developer%20•%20UI%2FUX%20Enthusiast%20•%20Data%20Analyst&descAlignY=60&descSize=17&descColor=ffffff" width="100%"/>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2200&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Real-World+Web+Applications;Designing+Clean+%26+Intuitive+Interfaces;Exploring+Data+%26+Technology;Turning+Ideas+Into+Digital+Experiences" />
 
@@ -69,55 +71,76 @@ To become a strong software engineer capable of building **scalable, intuitive a
 
 ## What I Build
 
-```text
-🌐 Web Applications
-🎨 Interactive & User-Centric Interfaces
-📊 Data Analysis & Visualization
-🤖 AI-Powered Projects
-🧩 Problem-Solving Applications
-🚀 Deployed & Production-Ready Projects
-```
+<div align="center">
+
+🌐 Web Applications	🎨 UI/UX	📊 Data	🤖 AI
+Interactive Apps	User-Centric Interfaces	Analysis & Visualization	AI-Powered Projects
+
+</div>
 
 ---
 
 ## Tech Stack
 
-### Languages
+Languages
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+
 </div>
 
-### Web Development
+<br/>
+
+Web Development
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express" />
+
 </div>
 
-### Database & Data
+<br/>
+
+Database & Data Analysis
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,python" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+
 </div>
 
-### Cloud & Deployment
+<br/>
+
+Cloud & Deployment
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,vercel,git,github" />
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,render" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </div>
 
-### Design & Creative Tools
+<br/>
+
+Design & Creative Tools
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=figma,canva,photoshop" />
 
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF?style=for-the-badge&logo=adobe-lightroom-classic&logoColor=white"/>
+
 </div>
-
 ---
 
 ## Featured Projects
@@ -182,6 +205,16 @@ A food-delivery platform concept focused on restaurant discovery, ordering and l
 <br/><br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jagrati-G&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jagrati-G&bg_color=0d1117&color=00ff88&line=00c853&point=ffffff&area=true&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jagrati-G&theme=github_dark" />
+
+<br/><br/>
 
 </div>
 
